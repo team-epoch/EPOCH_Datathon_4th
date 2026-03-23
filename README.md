@@ -7,14 +7,11 @@
 > **본 Datathon은 동일한 데이터셋을 기반으로 각 팀별로 Feature Engineering, Modeling, Tuning 등을 통해 타겟 변수의 값을 가장 정확하게 예측합니다.**
 
 ## Dataset
-> 본 Datathon에서 사용될 데이터셋은  
+> 본 Datathon에서 사용될 데이터셋은 '대만 기업 파산 데이터셋'입니다.
 
 
-### 파일 목록:
-
-
-### Data Schema
-
+### 데이터 정보
+<img width="1546" height="250" alt="image" src="https://github.com/user-attachments/assets/303dcd20-66b7-4473-a0b4-c2b477b7410b" />
 
 ## 제출 가이드라인
 > **공통 경로**: `EPOCH_Datathon_4th/Mini_Project_Submissions/`
